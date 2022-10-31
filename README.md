@@ -1,5 +1,2 @@
 Project Objective
-
-Drone itself is very portable, convenient, easy to maintain, and has strong applicability. It plays an important role in our life and can replace people to engage in many activities. We can use Drone for image shooting, delivery, disaster relief, highway monitoring, wildlife observation, etc.
-
-Therefore, my project is mainly to carry out a drone simulation, including takeoff, landing, speed, direction, flight altitude control simulation, attitude calculation, whether to reach the predetermined location, etc.
+With the continuous development of technology, UAVs have played a huge application value in aerial photography, plant protection, patrol inspection, police and other fields, but there are also some factors that limit the development of UAV market to a certain extent, such as obstacle avoidance technology. The perfect obstacle avoidance system can better complete the task and reduce the accident rate. Because of this, obstacle avoidance technology has become an important topic in the development of UAVs. In my project, I will try to study the obstacle avoidance technology of UAVs. Through airsim, I will use obstacle avoidance algorithms to simulate the handling of obstacles by UAVs, including basic UAV trajectory tracking, obstacle detection, UAV orientation calculation, etc.
